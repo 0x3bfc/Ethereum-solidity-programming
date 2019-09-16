@@ -1,6 +1,6 @@
 # Ethereum Solidity Programming 
 
-A crash course for [solidity](https://solidity.readthedocs.io/en/develop/index.html) programming language. To see the content of the course, start [here](/videos). The crash course videos are in ***Arabic***.
+A crash course for [solidity](https://solidity.readthedocs.io/en/develop/index.html) programming language. To see the video content of this course, start [here](/videos), for code snippets and labs, checkout this [section](/labs). The crash course videos are in ***Arabic***.
 
 If you love history, don't hesitate to take a look at the below link :wink: 
 
